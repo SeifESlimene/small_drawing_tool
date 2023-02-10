@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  background-image: url('https://picsum.photos/id/350/1920/1080');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.tui-image-editor-container {
+  height: 100vh !important;
+}
